@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.reaganharper.hiittrainer02.MainActivity">
+
+<EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/name"
+    android:hint="Interval Name"
+    android:inputType="textCapSentences"
+    android:padding="16dp"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <biz.kasual.materialnumberpicker.MaterialNumberPicker
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:npMinValue="0"
+            app:npMaxValue="60"
+            app:npDefaultValue="0"
+            android:id="@+id/minutes"
+            app:npTextSize="30dp"
+            ></biz.kasual.materialnumberpicker.MaterialNumberPicker>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Minutes"
+            android:paddingRight="16dp"
+            android:paddingLeft="8dp"/>
+
+        <biz.kasual.materialnumberpicker.MaterialNumberPicker
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/seconds"
+            app:npMaxValue="60"
+            app:npMinValue="0"
+            app:npTextSize="30dp"
+            app:npDefaultValue="0"
+            ></biz.kasual.materialnumberpicker.MaterialNumberPicker>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Seconds"
+            android:paddingLeft="8dp"/>
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/add"
+        android:text="ADD"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cancel"
+        android:text="Cancel"/>
+
+</LinearLayout>

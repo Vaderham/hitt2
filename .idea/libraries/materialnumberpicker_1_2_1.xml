@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="materialnumberpicker-1.2.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/4272680c33b4b67a531127542105dd5be63cd426/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/4272680c33b4b67a531127542105dd5be63cd426/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/biz.kasual/materialnumberpicker/1.2.1/b0149ef6eb264578990555856c9c68184dc0184/materialnumberpicker-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

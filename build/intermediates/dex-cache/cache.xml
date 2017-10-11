@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/reaganharper/.android/build-cache/afd31a96c5c848e223b8ebe6e5c460ccb034be01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f497d47b0ca801cef81a249b403f2fa67b5e180/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reaganharper/.android/build-cache/0b2caf5d99cdba88d4a19224839a62aa990e081f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/pre-dexed/debug/classes_ae39269663fa03a253008b96338e02d508cc7f04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reaganharper/.android/build-cache/afd31a96c5c848e223b8ebe6e5c460ccb034be01/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/pre-dexed/debug/classes_8f497d47b0ca801cef81a249b403f2fa67b5e180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reaganharper/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_e172eb9d52296f27a7e97b78ffeccdd7f73dd137.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reaganharper/.android/build-cache/0b2caf5d99cdba88d4a19224839a62aa990e081f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ae39269663fa03a253008b96338e02d508cc7f04/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5add5d2a6b8b05aa32f8b81538a510d57d31bcef/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reaganharper/.android/build-cache/70cfe943d90986fc6ef56ae5a75028dddc42d312/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/pre-dexed/debug/classes_b1aa6354870b960615f2844e8cf12082e433b6e9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reaganharper/.android/build-cache/70cfe943d90986fc6ef56ae5a75028dddc42d312/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1aa6354870b960615f2844e8cf12082e433b6e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reaganharper/.android/build-cache/905579f7000de5af2be5cd1e17b1edc148405706/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5fdbdab7670858a7becb6e107f26bd7bc8732c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reaganharper/.android/build-cache/b00d3aa1dff8cf16b3276c604ee745506e710239/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/pre-dexed/debug/classes_b02a27249c33896d7eeb7e549418cea9de8ac797.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reaganharper/.android/build-cache/b00d3aa1dff8cf16b3276c604ee745506e710239/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b02a27249c33896d7eeb7e549418cea9de8ac797/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reaganharper/.android/build-cache/905579f7000de5af2be5cd1e17b1edc148405706/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/pre-dexed/debug/classes_d5fdbdab7670858a7becb6e107f26bd7bc8732c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reaganharper/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_49aa5fffb4dcdddc88cebbae3ba58be6f2f0ec15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reaganharper/.android/build-cache/b55b6c527527199e092268ad6f3e4cb9c0880dd7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/pre-dexed/debug/classes_260a2cfd197512dfc7f78e5794ed0b9f63079821.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reaganharper/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_e172eb9d52296f27a7e97b78ffeccdd7f73dd137/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reaganharper/.android/build-cache/9f9c75e1aeada92ca80c27baea7edf97ca7917ad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4307ed09a11f85fb2dd850a63b0229c01b5d4c9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reaganharper/.android/build-cache/b55b6c527527199e092268ad6f3e4cb9c0880dd7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_260a2cfd197512dfc7f78e5794ed0b9f63079821/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reaganharper/.android/build-cache/4272680c33b4b67a531127542105dd5be63cd426/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="927f6a0e55849a056f0d573a3db63de481381140">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d94a049038b3a5f60e6c56a0538cb418876b323/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reaganharper/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_49aa5fffb4dcdddc88cebbae3ba58be6f2f0ec15/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reaganharper/.android/build-cache/9386a063e233b15e51b8bb394fef734ce33ef2a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/pre-dexed/debug/classes_e8cbbb49e9f0a820208d8bfa3262602ea7d67fdf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reaganharper/.android/build-cache/9386a063e233b15e51b8bb394fef734ce33ef2a8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8cbbb49e9f0a820208d8bfa3262602ea7d67fdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reaganharper/.android/build-cache/cccef31c91acf53088d99b49162332edd922e1c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/pre-dexed/debug/classes_74cfea30cf2cc5ef392d0c5c6307a205e21018f6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reaganharper/.android/build-cache/cccef31c91acf53088d99b49162332edd922e1c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74cfea30cf2cc5ef392d0c5c6307a205e21018f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reaganharper/.android/build-cache/e799682dcda07e8b7f48625c7c4995592b68134b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_30bc04d27cbfafa1c0cc97c86446ac1a17e319f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reaganharper/.android/build-cache/38095cfb8c7696fdd552abc5bd1b46952d8be1b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b476fb5fdd4e8b42a29b63f69dc6781b973bdfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reaganharper/.android/build-cache/66d91767e68475220e09986a0250f5d012aa6e4b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/pre-dexed/debug/classes_240b1e11753370e9c1f4eb21183f0327ac25d18e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/reaganharper/.android/build-cache/05c5158855f6610273ceae9da8081232ffa66a4a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/pre-dexed/debug/classes_e41b921ddbb375672659f388d5ee2a1cebf25030.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reaganharper/.android/build-cache/66d91767e68475220e09986a0250f5d012aa6e4b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_240b1e11753370e9c1f4eb21183f0327ac25d18e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reaganharper/.android/build-cache/05c5158855f6610273ceae9da8081232ffa66a4a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e41b921ddbb375672659f388d5ee2a1cebf25030/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2f10798592434efa098787253fbed5653c1baf45">
+        <dex dex="/Users/reaganharper/Desktop/Android/HIITTrainer0.2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_94c394c553c153a5c7b7b15994a5cc706e766163/classes.dex" />
+    </item>
+
+</items>

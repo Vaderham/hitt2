@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HIIT Trainer 0.2</string>
+    <string name="title_activity_interval_setup">IntervalSetup</string>
+</resources>
